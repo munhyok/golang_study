@@ -18,8 +18,9 @@ func yearsUntilEvents(age int) (yearsUntilAdult, yearsUntilDrinking, yearsUntilC
 		yearsUntilCarRental = 0
 	}
 	return
-	/*암시적으로 adult, drinking, rental을 반환*/
 }
+
+// don't edit below this line
 
 func test(age int) {
 	fmt.Println("Age:", age)
