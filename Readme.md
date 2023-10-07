@@ -7,7 +7,7 @@
 - [x] Ch 3 Functions
 - [x] Ch 4 Structs
 - [x] Ch 5 Interfaces
-- [ ] Ch 6
+- [x] Ch 6 Errors
 - [ ] Ch 7
 - [ ] Ch 8
 - [ ] Ch 9
