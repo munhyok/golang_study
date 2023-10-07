@@ -4,9 +4,9 @@
 ### 참고할 곳 : https://go-tour-ko.appspot.com/welcome/1
 
 ## 진행 상황
-- [x] Ch 3 Done
-- [x] Ch 4 Done
-- [x] Ch 5 Done
+- [x] Ch 3 Functions
+- [x] Ch 4 Structs
+- [x] Ch 5 Interfaces
 - [ ] Ch 6
 - [ ] Ch 7
 - [ ] Ch 8
