@@ -1,3 +1,5 @@
+//Ignore Return Values
+
 package main
 
 import "fmt"

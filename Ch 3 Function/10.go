@@ -1,3 +1,5 @@
+// The Benefits of named Returns
+
 package main
 
 import (

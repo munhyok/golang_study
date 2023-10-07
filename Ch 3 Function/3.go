@@ -1,3 +1,5 @@
+// Declaration Syntax 3~5
+
 package main
 
 import "fmt"
