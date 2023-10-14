@@ -9,7 +9,7 @@
 - [x] Ch 5 Interfaces
 - [x] Ch 6 Errors
 - [x] Ch 7 Loops
-- [ ] Ch 8
+- [x] Ch 8 Arrays
 - [ ] Ch 9
 - [ ] Ch 10
 - [ ] Ch 11
